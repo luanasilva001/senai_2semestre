@@ -1,0 +1,127 @@
+C:\Users\olive\Desktop\Luana\CURSO 2 SEMESTRE\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\olive\Desktop\Luana\CURSO 2 SEMESTRE\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\appsettings.json
+C:\Users\olive\Desktop\Luana\CURSO 2 SEMESTRE\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\senai_filmes_webApi.exe
+C:\Users\olive\Desktop\Luana\CURSO 2 SEMESTRE\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\senai_filmes_webApi.deps.json
+C:\Users\olive\Desktop\Luana\CURSO 2 SEMESTRE\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\senai_filmes_webApi.runtimeconfig.json
+C:\Users\olive\Desktop\Luana\CURSO 2 SEMESTRE\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\senai_filmes_webApi.runtimeconfig.dev.json
+C:\Users\olive\Desktop\Luana\CURSO 2 SEMESTRE\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\senai_filmes_webApi.dll
+C:\Users\olive\Desktop\Luana\CURSO 2 SEMESTRE\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\ref\senai_filmes_webApi.dll
+C:\Users\olive\Desktop\Luana\CURSO 2 SEMESTRE\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\senai_filmes_webApi.pdb
+C:\Users\olive\Desktop\Luana\CURSO 2 SEMESTRE\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\olive\Desktop\Luana\CURSO 2 SEMESTRE\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\olive\Desktop\Luana\CURSO 2 SEMESTRE\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\olive\Desktop\Luana\CURSO 2 SEMESTRE\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\olive\Desktop\Luana\CURSO 2 SEMESTRE\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\olive\Desktop\Luana\CURSO 2 SEMESTRE\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\olive\Desktop\Luana\CURSO 2 SEMESTRE\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\senai_filmes_webApi.csprojAssemblyReference.cache
+C:\Users\olive\Desktop\Luana\CURSO 2 SEMESTRE\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\senai_filmes_webApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\Desktop\Luana\CURSO 2 SEMESTRE\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\senai_filmes_webApi.AssemblyInfoInputs.cache
+C:\Users\olive\Desktop\Luana\CURSO 2 SEMESTRE\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\senai_filmes_webApi.AssemblyInfo.cs
+C:\Users\olive\Desktop\Luana\CURSO 2 SEMESTRE\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\senai_filmes_webApi.csproj.CoreCompileInputs.cache
+C:\Users\olive\Desktop\Luana\CURSO 2 SEMESTRE\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\senai_filmes_webApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\olive\Desktop\Luana\CURSO 2 SEMESTRE\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\staticwebassets\senai_filmes_webApi.StaticWebAssets.Manifest.cache
+C:\Users\olive\Desktop\Luana\CURSO 2 SEMESTRE\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\staticwebassets\senai_filmes_webApi.StaticWebAssets.xml
+C:\Users\olive\Desktop\Luana\CURSO 2 SEMESTRE\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\scopedcss\bundle\senai_filmes_webApi.styles.css
+C:\Users\olive\Desktop\Luana\CURSO 2 SEMESTRE\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\senai_filmes_webApi.RazorTargetAssemblyInfo.cache
+C:\Users\olive\Desktop\Luana\CURSO 2 SEMESTRE\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\senai_filmes_webApi.csproj.CopyComplete
+C:\Users\olive\Desktop\Luana\CURSO 2 SEMESTRE\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\senai_filmes_webApi.dll
+C:\Users\olive\Desktop\Luana\CURSO 2 SEMESTRE\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\ref\senai_filmes_webApi.dll
+C:\Users\olive\Desktop\Luana\CURSO 2 SEMESTRE\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\senai_filmes_webApi.pdb
+C:\Users\olive\Desktop\Luana\CURSO 2 SEMESTRE\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\senai_filmes_webApi.genruntimeconfig.cache
+C:\Users\olive\Desktop\Luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\senai_filmes_webApi.csprojAssemblyReference.cache
+C:\Users\olive\Desktop\Luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\senai_filmes_webApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\Desktop\Luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\senai_filmes_webApi.AssemblyInfoInputs.cache
+C:\Users\olive\Desktop\Luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\senai_filmes_webApi.AssemblyInfo.cs
+C:\Users\olive\Desktop\Luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\senai_filmes_webApi.csproj.CoreCompileInputs.cache
+C:\Users\olive\Desktop\Luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\senai_filmes_webApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\olive\Desktop\Luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\senai_filmes_webApi.dll
+C:\Users\olive\Desktop\Luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\ref\senai_filmes_webApi.dll
+C:\Users\olive\Desktop\Luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\senai_filmes_webApi.pdb
+C:\Users\olive\Desktop\Luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\olive\Desktop\Luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\appsettings.json
+C:\Users\olive\Desktop\Luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\senai_filmes_webApi.exe
+C:\Users\olive\Desktop\Luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\senai_filmes_webApi.deps.json
+C:\Users\olive\Desktop\Luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\senai_filmes_webApi.runtimeconfig.json
+C:\Users\olive\Desktop\Luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\senai_filmes_webApi.runtimeconfig.dev.json
+C:\Users\olive\Desktop\Luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\senai_filmes_webApi.dll
+C:\Users\olive\Desktop\Luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\ref\senai_filmes_webApi.dll
+C:\Users\olive\Desktop\Luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\senai_filmes_webApi.pdb
+C:\Users\olive\Desktop\Luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\olive\Desktop\Luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\olive\Desktop\Luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\olive\Desktop\Luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\olive\Desktop\Luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\olive\Desktop\Luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\olive\Desktop\Luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\staticwebassets\senai_filmes_webApi.StaticWebAssets.Manifest.cache
+C:\Users\olive\Desktop\Luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\staticwebassets\senai_filmes_webApi.StaticWebAssets.xml
+C:\Users\olive\Desktop\Luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\scopedcss\bundle\senai_filmes_webApi.styles.css
+C:\Users\olive\Desktop\Luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\senai_filmes_webApi.RazorTargetAssemblyInfo.cache
+C:\Users\olive\Desktop\Luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\senai_filmes_webApi.csproj.CopyComplete
+C:\Users\olive\Desktop\Luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\senai_filmes_webApi.genruntimeconfig.cache
+C:\Users\joaov\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\joaov\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\appsettings.json
+C:\Users\joaov\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\senai_filmes_webApi.exe
+C:\Users\joaov\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\senai_filmes_webApi.deps.json
+C:\Users\joaov\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\senai_filmes_webApi.runtimeconfig.json
+C:\Users\joaov\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\senai_filmes_webApi.runtimeconfig.dev.json
+C:\Users\joaov\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\senai_filmes_webApi.dll
+C:\Users\joaov\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\ref\senai_filmes_webApi.dll
+C:\Users\joaov\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\senai_filmes_webApi.pdb
+C:\Users\joaov\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\joaov\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\joaov\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\joaov\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\joaov\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\joaov\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\joaov\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\senai_filmes_webApi.csprojAssemblyReference.cache
+C:\Users\joaov\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\senai_filmes_webApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\senai_filmes_webApi.AssemblyInfoInputs.cache
+C:\Users\joaov\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\senai_filmes_webApi.AssemblyInfo.cs
+C:\Users\joaov\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\senai_filmes_webApi.csproj.CoreCompileInputs.cache
+C:\Users\joaov\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\senai_filmes_webApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\joaov\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\staticwebassets\senai_filmes_webApi.StaticWebAssets.Manifest.cache
+C:\Users\joaov\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\staticwebassets\senai_filmes_webApi.StaticWebAssets.xml
+C:\Users\joaov\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\scopedcss\bundle\senai_filmes_webApi.styles.css
+C:\Users\joaov\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\senai_filmes_webApi.RazorTargetAssemblyInfo.cache
+C:\Users\joaov\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\senai_filmes_webApi.csproj.CopyComplete
+C:\Users\joaov\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\senai_filmes_webApi.dll
+C:\Users\joaov\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\ref\senai_filmes_webApi.dll
+C:\Users\joaov\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\senai_filmes_webApi.pdb
+C:\Users\joaov\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\senai_filmes_webApi.genruntimeconfig.cache
+C:\Users\conta\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\conta\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\appsettings.json
+C:\Users\conta\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\senai_filmes_webApi.exe
+C:\Users\conta\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\senai_filmes_webApi.deps.json
+C:\Users\conta\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\senai_filmes_webApi.runtimeconfig.json
+C:\Users\conta\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\senai_filmes_webApi.runtimeconfig.dev.json
+C:\Users\conta\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\senai_filmes_webApi.dll
+C:\Users\conta\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\ref\senai_filmes_webApi.dll
+C:\Users\conta\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\senai_filmes_webApi.pdb
+C:\Users\conta\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\conta\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\conta\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\conta\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\conta\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\conta\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\conta\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\senai_filmes_webApi.csprojAssemblyReference.cache
+C:\Users\conta\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\senai_filmes_webApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conta\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\senai_filmes_webApi.AssemblyInfoInputs.cache
+C:\Users\conta\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\senai_filmes_webApi.AssemblyInfo.cs
+C:\Users\conta\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\senai_filmes_webApi.csproj.CoreCompileInputs.cache
+C:\Users\conta\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\senai_filmes_webApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\conta\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\staticwebassets\senai_filmes_webApi.StaticWebAssets.Manifest.cache
+C:\Users\conta\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\staticwebassets\senai_filmes_webApi.StaticWebAssets.xml
+C:\Users\conta\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\scopedcss\bundle\senai_filmes_webApi.styles.css
+C:\Users\conta\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\senai_filmes_webApi.RazorTargetAssemblyInfo.cache
+C:\Users\conta\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\senai_filmes_webApi.csproj.CopyComplete
+C:\Users\conta\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\senai_filmes_webApi.dll
+C:\Users\conta\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\ref\senai_filmes_webApi.dll
+C:\Users\conta\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\senai_filmes_webApi.pdb
+C:\Users\conta\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\obj\Debug\net5.0\senai_filmes_webApi.genruntimeconfig.cache
+C:\Users\conta\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\conta\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\conta\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\conta\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\conta\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\conta\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\conta\Desktop\luana\senai_2semestre\senai_sprint_2backend\senai_filmes_webApi\senai_filmes_webApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll

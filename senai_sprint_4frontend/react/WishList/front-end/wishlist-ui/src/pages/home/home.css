@@ -1,0 +1,150 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
+body,
+h1,
+h2,
+p,
+ul,
+li,
+a {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  font-family: "Poppins", Arial, Helvetica, Arial, sans-serif;
+  color: #000000;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* menu */
+.menu {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 15px 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+@media screen and (max-width: 527px) {
+  .menu-logo, .menu-nav{
+    margin: 0 auto;
+  }
+}
+
+.menu a {
+  color: #000000;
+  font-size: 1.5625em;
+  line-height: 37.5px;
+  font-weight: 400;
+}
+
+.menu-logo a {
+  font-size: 1.562em;
+  line-height: 52.5px;
+  font-weight: 400;
+  margin: 0 10px;
+}
+
+.menu-nav ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.menu-nav li{
+  font-size: 0.825em;
+}
+
+.menu-nav a {
+  display: block;
+  padding: 10px;
+  padding-left: 40px;
+
+}
+
+.menu-nav a:hover {
+  color: #db944d;
+}
+
+/* quem somos */
+.sobre {
+  border-top: 2px solid #db944d;
+  border-bottom: 2px solid #db944d;
+  max-width: 960px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.sobre h1 {
+  font-size: 1.5625em;
+  line-height: 37.5px;
+  font-weight: 400;
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 60px 10px;
+}
+
+.sobre-info {
+  flex: 2 1 300px;
+  margin: 5% auto;
+}
+
+.sobre-info h1 {
+  font-size: 1.5625em;
+  text-align: center;
+}
+
+.sobre-info p {
+  line-height: 1.4em;
+  margin-bottom: 1em;
+  color: #7c7c7c;
+  text-align: center;
+}
+
+.sobre img {
+  flex: 1 1 160px;
+  margin: 0 auto;
+}
+
+.sobre-img{
+  width: 45%;
+}
+
+
+@media screen and (max-width: 581px) {
+  .sobre img{
+    margin: auto 50%;
+  }
+}
+
+/* footer */
+.footer {
+  height: 100px;
+  display: flex;
+  align-items: center;
+}
+
+.footer p {
+  flex: 1;
+  text-align: center;
+  font-size: 1.1625em;
+}

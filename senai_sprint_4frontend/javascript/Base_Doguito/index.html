@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="stylesheet" type="text/css" href="styles.css" />
+  <title>Doguitos</title>
+</head>
+
+<body>
+  <div id="mudarBG">
+    <h1>SITE DE DOGUINHOS</h1>
+    <div id="dog1">
+      <img id="imagem1" src="Ibageins/2.jpeg" alt="Sammy" />
+      <h2 id="texto">Sammy</h2>
+    </div>
+    <div id="dog2">
+      <img id="imagem2" src="Ibageins/3.jpeg" alt="Dragão" />
+      <h2 id="texto">Dragão</h2>
+    </div>
+    <div id="dog3">
+      <img id="imagem3" src="Ibageins/4.jpeg" alt="Milton" />
+      <h2 id="texto">Milton</h2>
+    </div>
+    <div id="dog4">
+      <img id="imagem4" src="Ibageins/5.jpeg" alt="Penny" />
+      <h2 id="texto">Penny</h2>
+    </div>
+    <div id="dog5">
+      <img id="imagem5" src="Ibageins/6.jpeg" alt="Nenem" />
+      <h2 id="texto">Nenem</h2>
+    </div>
+
+    <div id="botauns">
+      <input id="btn" type="button" value="Nome dos Spitz" onclick="soSpitz()" </div>
+      <!--Filter  -->
+      <input id="btn" type="button" value="Idade Real" onclick="idadeReal()" />
+      <!-- Map -->
+      <input id="btn" type="button" value="Soma todas as Idades" onclick="idadeSoma()" />
+      <!-- Reduce -->
+      <input id="btn" type="button" value="Piorar Site" onclick="mudaTudo()" />
+    </div>
+
+
+    <script>
+      dogs = [
+        {
+          nome: 'Sammy',
+          idade: 6,
+          raca: 'Samoieda'
+        },
+        {
+          nome: 'Dragão',
+          idade: 5,
+          raca: 'Spitz Alemão'
+        },
+        {
+          nome: 'Milton',
+          idade: 8,
+          raca: 'Spitz Alemão'
+        },
+        {
+          nome: 'Penny',
+          idade: 6,
+          raca: 'Spitz Alemão'
+        },
+        {
+          nome: 'Nenem',
+          idade: 4,
+          raca: 'Spitz Alemão'
+        },
+      ];
+
+      //Quando clicar no botão “Nome dos Spitz”
+      //Retornar apenas os nomes dos Spitz e exibir no h1 da pagina
+      function filtros(dog) {
+        return dog.raca == 'Spitz Alemão';
+      }
+      //Quando clicar no botão “Nome dos Spitz”
+      //Retornar apenas os nomes dos Spitz e exibir no h1 da pagina
+      function soSpitz() {
+        var filtrar = dogs.filter(filtros);
+        return filtrar.forEach(x => alert(x.nome));
+      }
+
+      //Quando clicar no botão “Idade Real”
+      //Retornar nome e idade e exibir no h1 da pagina
+      function filtro(dog) {
+        return dog.idade >= 4;
+      }
+
+      //Quando clicar no botão “Idade Real”
+      //Retornar nome e idade e exibir no h1 da pagina
+      function idadeReal() {
+        var filtrarIdade = dogs.filter(filtro);
+        return filtrarIdade.forEach(x => alert(`Nome: ${x.nome}, Idade: ${x.idade}`));
+        // return filtrarIdade.forEach(x => alert(x.nome + ' ' + x.idade));
+      }
+
+      //Quando clicar no botão “Soma todas as Idades”
+      //Retornar apenas os nomes dos Spitz e exibir no h1 da pagina
+      function idadeSoma() {
+        var idades = dogs.reduce(function (total, item) {
+          return total + item.idade
+        }, 0);
+        return alert(`${idades}`);
+      }
+
+      //Quando clicar no botão “Piorar Site”
+      function mudaTudo() {
+
+        //Mudar background
+        document.getElementById("mudarBG").style.backgroundColor = "blue";
+
+        //Mudar todas as fotos
+        var imagem = document.querySelector("#imagem1");
+        imagem.setAttribute('src', 'tv.png');
+
+        //Mudar todas as fotos
+        var imagem2 = document.querySelector("#imagem2");
+        imagem2.setAttribute('src', 'tv.png');
+
+        //Mudar todas as fotos
+        var imagem3 = document.querySelector("#imagem3");
+        imagem3.setAttribute('src', 'tv.png');
+
+        //Mudar todas as fotos
+        var imagem4 = document.querySelector("#imagem4");
+        imagem4.setAttribute('src', 'tv.png');
+
+        //Mudar todas as fotos
+        var imagem5 = document.querySelector("#imagem5");
+        imagem5.setAttribute('src', 'tv.png');
+
+        //Mudar cor da fonte
+        document.getElementById("mudarBG").style.color = "#ffffff";
+      }
+    </script>
+</body>
+
+</html>

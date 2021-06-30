@@ -1,0 +1,84 @@
+{
+	"info": {
+		"_postman_id": "3dc78fa8-7df9-447e-91e1-1b5a52652bdc",
+		"name": "WishList",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "ListaDesejo",
+			"item": [
+				{
+					"name": "ListaDesejoListar",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:5000/api/listadesejo",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"listadesejo"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "ListaDesejoCadastrar",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"IdUsuario\" : 1,\r\n    \"Descricaodesejo\" : \"luana lindaaaaaaaaaaaaaaaaa\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:5000/api/listadesejo",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"listadesejo"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "ListaDesejoBuscarPorID",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:5000/api/listadesejo/6",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"listadesejo",
+								"6"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,114 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
+body,
+h1,
+h2,
+p,
+ul,
+li,
+a {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  font-family: "Poppins", Arial, Helvetica, Arial, sans-serif;
+  color: #000000;
+  background-color: #ffffff;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+img {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* header */
+.menu-cad {
+  margin: 0 auto;
+  padding: 18px 120px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  text-align: center;
+}
+
+.menu-voltar {
+  display: flex;
+}
+
+.menu-voltar a,
+.menu-listar {
+  text-transform: uppercase;
+}
+
+.menu-listar {
+  font-size: 16px;
+}
+
+.menu-imagem {
+  width: 15%;
+  padding-bottom: 15px;
+}
+
+/* input {
+  background-color: #e8c098;
+  max-width: 960px;
+  height: 30px;
+  border: none;
+  border-radius: 10px;
+  flex-wrap: wrap;
+} */
+
+/* desejos */
+.todos-desejos,
+.titulo {
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+  margin: auto;
+}
+
+.todos-desejos {
+  margin-top: 50px;
+}
+
+.todos-desejo img {
+  flex: 1 1 160px;
+  margin: 0 auto;
+}
+
+.desejos-img {
+  width: 30%;
+  flex-wrap: wrap;
+}
+
+@media screen and (max-width: 1080px) {
+  .desejos-img {
+    display: none;
+  }
+}
+
+.footer {
+  height: 100px;
+  display: flex;
+  align-items: center;
+}
+
+.footer p {
+  flex: 1;
+  text-align: center;
+  font-size: 1.1625em;
+}
